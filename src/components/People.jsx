@@ -52,7 +52,7 @@ function People() {
             className="input"
             type="text"
             placeholder="0"
-            value={people}
+            value={isValid ? people : ""}
             onChange={handleChange}
             ref={inputRef}
             onMouseEnter={handleMouseEnter}
