@@ -36,8 +36,8 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Thanos-M11/react-tip-calculator)
-- Live Site URL: [Add live site URL here](https://react-tip-calculator-thanosdev.netlify.app/)
+- [Solution URL](https://github.com/Thanos-M11/react-tip-calculator)
+- [Live Site URL](https://react-tip-calculator-thanosdev.netlify.app/)
 
 ## My process
 
