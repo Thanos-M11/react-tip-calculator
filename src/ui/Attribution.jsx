@@ -8,7 +8,7 @@ function Attribution() {
         </a>
       </p>
       <p>
-        Coded by <a href="thanosdev.netlify.app">Thanos Kalaitzis</a>.
+        Coded by <a href="http://thanosdev.netlify.app">Thanos Kalaitzis</a>.
       </p>
     </footer>
   );
